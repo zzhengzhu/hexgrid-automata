@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hexgrid-automata/static/css/main.12563401.css",
-    "main.js": "/hexgrid-automata/static/js/main.4d1055ec.js",
+    "main.js": "/hexgrid-automata/static/js/main.bd240124.js",
     "index.html": "/hexgrid-automata/index.html",
     "main.12563401.css.map": "/hexgrid-automata/static/css/main.12563401.css.map",
-    "main.4d1055ec.js.map": "/hexgrid-automata/static/js/main.4d1055ec.js.map"
+    "main.bd240124.js.map": "/hexgrid-automata/static/js/main.bd240124.js.map"
   },
   "entrypoints": [
     "static/css/main.12563401.css",
-    "static/js/main.4d1055ec.js"
+    "static/js/main.bd240124.js"
   ]
 }
