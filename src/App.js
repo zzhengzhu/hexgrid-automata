@@ -85,6 +85,7 @@ class App extends Component {
       <div>
 				<h1>Cellular Automata - HexGrid Variant</h1>
         <h3>Inspired by Conway's Game of Life <a href="https://www.wikiwand.com/en/Conway%27s_Game_of_Life">link</a></h3>
+		<h3>Github Page <a href="https://github.com/zzhengzhu/hexgrid-automata">link</a></h3>
         <HexagonalGrid grid={grid} />
 				<div className='flexRow upperControls'>
 					<span>
